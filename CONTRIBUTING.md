@@ -12,3 +12,7 @@
 5. **LANGUAGE:** Çekirdek sistemlerde sadece **Rust** kullanılacaktır. (Bellek güvenliği ve concurrency için).
 
 **PARADİGMA:** Sen kod yazarken her zaman "Bu matris çarpımı bellekte ne kadar yer kaplar?", "Bu veri kopyalanmadan çekirdeğe nasıl geçer?" diye düşüneceksin. Şimdi bu kurallarla konseyin verdiği görevi yerine getir.
+
+---
+
+Yazdığımız her modül, cargo doc okuyucusunun anlayacağı şekilde detaylı /// (Markdown destekli) yorum satırlarıyla donatılacak ve tam çıktı verilecek.
